@@ -13,7 +13,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)&nbsp;
 
-## :man_factory_worker:	Programing framework
+## :man_factory_worker:	Programing toolbox
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat&logo=dotnet&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat&logo=Flutter&logoColor=white)&nbsp;
@@ -23,6 +23,12 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=flat&logo=NestJS&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white)&nbsp;
 ![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?&style=flat&logo=Astro&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white)&nbsp; \
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=Kubernetes&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)&nbsp;
+![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?&style=flat&logo=Astro&logoColor=white)&nbsp;
+
 
 ## :bar_chart: DataBase knowledge
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat&logo=PostgreSQL&logoColor=white)&nbsp;
