@@ -4,13 +4,25 @@
 
 ## 👨‍💻 Programing language 
 
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp; \
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=typescript&logoColor=white)&nbsp; \
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=c&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)&nbsp;
+
+## :man_factory_worker:	Programing framework
+
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat&logo=dotnet&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat&logo=Flutter&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=flat&logo=FastAPI&logoColor=white)&nbsp;\
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=flat&logo=NestJS&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white)&nbsp;
+![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?&style=flat&logo=Astro&logoColor=white)&nbsp;
 
 ## :bar_chart: DataBase knowledge
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat&logo=PostgreSQL&logoColor=white)&nbsp;
