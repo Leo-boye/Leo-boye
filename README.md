@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 ,I'm Léo Boyé</h1>
 
-### I'm curently studiyng at [EPITA](https://www.epita.fr/) (School of enginering & computer science at Paris).
+### Full-stack Software Engineer | I'm curently looking for Exciting Opportunities.
 
 ## 👨‍💻 Programing language 
 
