@@ -27,7 +27,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=Kubernetes&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)&nbsp;
-![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?&style=flat&logo=Astro&logoColor=white)&nbsp;
 
 
 ## :bar_chart: DataBase knowledge
