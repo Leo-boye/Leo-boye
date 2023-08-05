@@ -22,10 +22,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=flat&logo=NestJS&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white)&nbsp;
-![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?&style=flat&logo=Astro&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white)&nbsp; \
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=Kubernetes&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)&nbsp;
 
 
