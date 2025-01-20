@@ -8,9 +8,7 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=typescript&logoColor=white)&nbsp; \
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=c&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)&nbsp;
 
 ## :man_factory_worker:	Programing toolbox
@@ -20,8 +18,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=flat&logo=FastAPI&logoColor=white)&nbsp;\
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=flat&logo=NestJS&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white)&nbsp; \
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)&nbsp;
